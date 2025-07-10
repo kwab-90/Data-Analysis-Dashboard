@@ -1,5 +1,5 @@
 # Data-Analysis-Dashboard
-Built a full Excel data analysis project involving data preprocessing, cleaning, structured tables, and visualisations. Used dynamic formulas to extract insights and improve data clarity—showcasing end-to-end analytical workflow in Excel.
+This project analyses a customer dataset to uncover patterns behind bicycle purchases. Using Excel's data analysis capabilities, the project transforms raw demographic and lifestyle data into actionable insights through pivot tables and a clean, interactive dashboard.
 
 🎯 ****Objectives****
 

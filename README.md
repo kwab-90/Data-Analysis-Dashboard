@@ -4,19 +4,14 @@ This project analyses a customer dataset to uncover patterns behind bicycle purc
 🎯 ****Objectives****
 
 - Understand which customer demographics are most likely to buy bikes
-
 - Explore relationships between income, marital status, and bike ownership
-
 - Create an interactive Excel dashboard to visualise key trends and support business decisions
 
 🛠️ ****Tools & Techniques****
 
 - Data Cleaning: Prepared raw data in a working sheet for structured analysis
-
 - Pivot Tables: Aggregated bike buyer data by gender, marital status, income, and age
-
 - Charts & Visuals: Developed bar and pie charts to highlight trends
-
 - Dashboard Design: Built a user-friendly summary page to surface key insights at a glance
 
 📁 ****Dataset Structure (Sample Columns)****
@@ -40,8 +35,6 @@ Column	Description
 📌 ****Key Insights****
 
 - Married individuals show a higher likelihood of bike purchases
-
 - Income positively correlates with bike ownership
-
 - Most bike buyers fall within a specific mid-age demographic range
 
